@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @benrepos - Ben
+- 👀 I’m interested in Data Analysis, Process Automation, Python (automation, django, web scraping), SQl and Java applications. 
+- 🌱 I’m currently learning machine learning, django and advancing python skills. 
